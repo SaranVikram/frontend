@@ -16,10 +16,8 @@
     "@mui/icons-material": "latest",
     "@mui/lab": "^5.0.0-alpha.117",
     "@mui/material": "latest",
-    
     "@tabler/icons-react": "^2.1.1",
     "@types/node": "20.2.3",
-    "@types/react": "18.2.18",
     "@types/react-dom": "18.2.4",
     "apexcharts": "3.41.0",
     "eslint": "8.41.0",
@@ -33,6 +31,7 @@
     "typescript": "5.0.4"
   },
   "devDependencies": {
-    "@types/lodash": "^4.14.194"
+    "@types/lodash": "^4.14.194",
+    "@types/react": "^18.2.20"
   }
 }
